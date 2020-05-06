@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 **Environment**
 Please complete the following information:
-- Uxcool version: [e.g. 0.6.0]
+- UXCool version: [e.g. 0.6.0]
 - Vue version: [e.g. 2.6.1]
 - Browser version: [e.g. chrome 76]
 - OS version: [e.g. windows 10]
